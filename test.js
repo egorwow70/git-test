@@ -1,6 +1,8 @@
 console.log('test')
 console.log('test 2')
 
+console.log('one more fix from dev')
+
 console.log('from dev')
 console.log('from dev 2')
 
